@@ -1,0 +1,10 @@
+{
+  "name": "Quincy Cade",
+  "short_name": "Quincy Cade",
+  "description": "Quincy Cade on Hello Texas Records",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090806",
+  "theme_color": "#d49a25",
+  "icons": []
+}
