@@ -11,6 +11,14 @@
   },
   "tracks": [
     {
+      "title": "Even My Tears",
+      "artist": "Quincy Cade",
+      "album": "After All This Time",
+      "cover": "https://raw.githubusercontent.com/SteveP999/quincy-cade/main/images/covers/quincy-cade-even-my-tears-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/g3zu9ep2j6dl7prs4c2kx/quincy-cade-even-my-tears-mp3.mp3?rlkey=rvb1t8uk0qw6gip1f6lwoeyk3&raw=1",
+      "videos": []
+    },
+    {
       "title": "I Never Got Your Name",
       "artist": "Quincy Cade",
       "album": "After All This Time",
@@ -40,14 +48,6 @@
       "album": "After All This Time",
       "cover": "https://raw.githubusercontent.com/SteveP999/quincy-cade/main/images/covers/quincy-cade-yesterdays-girl-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/mm952hx0fm1jqv8qatwc8/quincy-cade-yesterdays-girl-mp3.mp3?rlkey=kct0tprfs60a8blhk8bk463s3&raw=1",
-      "videos": []
-    },
-    {
-      "title": "Even My Tears",
-      "artist": "Quincy Cade",
-      "album": "After All of This Time",
-      "cover": "https://raw.githubusercontent.com/SteveP999/quincy-cade/main/images/covers/quincy-cade-even-my-tears-cover.png",
-      "audioSrc": "https://www.dropbox.com/scl/fi/g3zu9ep2j6dl7prs4c2kx/quincy-cade-even-my-tears-mp3.mp3?rlkey=rvb1t8uk0qw6gip1f6lwoeyk3&raw=1",
       "videos": []
     }
   ]
